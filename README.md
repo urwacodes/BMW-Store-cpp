@@ -16,7 +16,8 @@ Includes cart, invoice, search, and file saving (in full version).
 🔒 Full version has:
 - 10+ cars
 - Save/Load cart
-- Cleaner UI
+- Invoice with tax
+- Clean & commented code
 
 ---
 
