@@ -21,7 +21,7 @@ Includes cart, invoice, search, and file saving (in full version).
 
 ---
 
-## 💰 Buy Full Version (15,000k)
+## 💰 Buy Full Version (15k)
 To get full source code:
 
 📱 WhatsApp: +923134364786  
